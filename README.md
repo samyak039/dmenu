@@ -1,5 +1,6 @@
 # dmenu - dynamic menu
 
+![logo](images/logo.png)  
 dmenu is an efficient dynamic menu for X.
 
 ## Requirements
