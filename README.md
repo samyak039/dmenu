@@ -1,4 +1,4 @@
-![banner](images/banner.png)  
+![banner](images/banner_dmenu.png)
 
 # dmenu - dynamic menu
 
@@ -18,7 +18,7 @@ dmenu is an efficient dynamic menu for X.
 - make as sudo.
 
 ```shell
-$ git clone https://gitlab.com/samyak039/suckless_dmenu.git dmenu
+$ git clone https://github.com/samyak039/suckless_dmenu.git dmenu
 $ cd dmenu
 $ sudo make clean install
 ```
